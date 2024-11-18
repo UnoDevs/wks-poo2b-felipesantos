@@ -4,7 +4,7 @@ Trabalho desenvolvido por solicitação do professor João Choma, para desenvolv
 
 ## Informações
 
-Projeto Desenvolvido por:
+### Projeto Desenvolvido por:  
 Nome: Felipe dos Santos Maniezo de Freitas  
 RA: 24224651-2
 
